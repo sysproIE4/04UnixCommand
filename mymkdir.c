@@ -2,8 +2,8 @@
 
 int main(int argc, char *argv[]) {
 
-    return 0;
+  return 0;
 }
-/* 本物との違いを調べて書く
+/* コンパイル結果，テスト結果，本物との違いを書く
 
 */
